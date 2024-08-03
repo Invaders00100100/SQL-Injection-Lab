@@ -10,7 +10,7 @@ This will create the database & output a file named testdb.sqlite
 
 The Walkthrough is available on Youtube:
 
-https://www.youtube.com/watch?v=GWt4Cdrq7nw
+https://www.youtube.com/watch?v=Ooi6NkEwOiE
     
 Support My Work With A Cup Of Coffee
 
